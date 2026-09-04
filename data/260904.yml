@@ -7,7 +7,7 @@ about:
   head: 7f6e8f3
   archived: false
   latestVersion: rc/v4.1.0.1
-  collectedAt: 2026-09-04T19:25:55Z
+  collectedAt: 2026-09-04T21:06:25Z
 timeline:
   created: 2015-04-29
   lastCommit: 2026-08-22
@@ -86,6 +86,94 @@ total:
   openIssue: 601
   commit: 11870
 ---
+path: /home/runner/.x-repo/github.com/commercialhaskell/stack
+collectedAt: 2026-09-04T21:06:29Z
+loc:
+  Haskell:
+    code: 50263
+    comments: 12097
+    blanks: 5861
+    files: 691
+  Svg:
+    code: 11802
+    comments: 2324
+    blanks: 3
+    files: 11
+  Yaml:
+    code: 3417
+    comments: 211
+    blanks: 832
+    files: 369
+  Cabal:
+    code: 1192
+    comments: 7
+    blanks: 65
+    files: 11
+  Sh:
+    code: 908
+    comments: 249
+    blanks: 143
+    files: 18
+  Dockerfile:
+    code: 43
+    comments: 28
+    blanks: 19
+    files: 2
+  JavaScript:
+    code: 23
+    comments: 1
+    blanks: 5
+    files: 1
+  Makefile:
+    code: 18
+    comments: 12
+    blanks: 11
+    files: 3
+  C:
+    code: 11
+    comments: 0
+    blanks: 2
+    files: 3
+  Elisp:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Css:
+    code: 6
+    comments: 5
+    blanks: 1
+    files: 1
+  Batch:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 3
+  Bash:
+    code: 4
+    comments: 2
+    blanks: 2
+    files: 2
+  CHeader:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 18726
+    blanks: 6218
+    files: 122
+  Text:
+    code: 0
+    comments: 3954
+    blanks: 2
+    files: 11
+total:
+  code: 67702
+  comments: 37616
+  blanks: 13164
+  files: 1250
 ---
 date: "2026-08-24"
 repo:
