@@ -5,7 +5,7 @@ about:
   head: 7f6e8f3
   archived: false
   latestVersion: "rc/v4.1.0.1"
-  collectedAt: 2026-09-07T06:09:10Z
+  collectedAt: 2026-09-07T18:23:41Z
 timeline:
   created: 2015-04-29
   lastCommit: 2026-08-22
@@ -85,7 +85,7 @@ total:
   commit: 11870
 ---
 path: /home/runner/.x-repo/github.com/commercialhaskell/stack
-collectedAt: 2026-09-07T06:09:17Z
+collectedAt: 2026-09-07T18:23:48Z
 loc:
   Haskell:
     code: 50263
@@ -326,7 +326,7 @@ checks:
       - 'Warn: release artifact v3.9.1 does not have provenance: https://api.github.com/repos/commercialhaskell/stack/releases/274069441'
 ---
 eget:
-  collectedAt: 2026-09-07T06:09:18+00:00
+  collectedAt: 2026-09-07T18:23:49+00:00
   platform:
     darwin/arm64:
       name:  stack-3.11.1-osx-aarch64.tar.gz
