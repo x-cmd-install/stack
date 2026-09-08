@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 24398421,
       "digest": "sha256:1617ae9976a5cd38ad4daec583b026b589eb45d5482afb045cd4ca8c8d0de6d0",
-      "download_count": 4216,
+      "download_count": 4229,
       "created_at": "2026-06-13T18:15:04Z",
       "updated_at": "2026-06-13T18:15:05Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-linux-aarch64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 94141872,
       "digest": "sha256:67c66e918801c41ae4d286b1c91f9124f691c1c7d56071b53889cf4a5c667550",
-      "download_count": 2167,
+      "download_count": 2175,
       "created_at": "2026-06-13T18:15:07Z",
       "updated_at": "2026-06-13T18:15:11Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-linux-x86_64-bin"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:e3baa66806650d7c541db4cab42106d0a7908e5f5ff65fbf3733074e4c8b7f9a",
-      "download_count": 163,
+      "download_count": 164,
       "created_at": "2026-06-13T18:15:12Z",
       "updated_at": "2026-06-13T18:15:12Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-linux-x86_64-bin.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 22711043,
       "digest": "sha256:1fda71e657cd8d355625cc66b61b352699279dfee2664c014a392163bd19a952",
-      "download_count": 69334,
+      "download_count": 69442,
       "created_at": "2026-06-13T18:15:12Z",
       "updated_at": "2026-06-13T18:15:14Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-linux-x86_64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 27170422,
       "digest": "sha256:652572ddf74616a7975892de9c61a9e5e6b5979db4f9b00fcd659ac6a15d7330",
-      "download_count": 4089,
+      "download_count": 4094,
       "created_at": "2026-06-13T18:15:21Z",
       "updated_at": "2026-06-13T18:15:22Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-osx-aarch64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 9829622,
       "digest": "sha256:603db63eef6246b02dd042e446686f61e3410ee9ef73cb3838314e24468fb290",
-      "download_count": 1240,
+      "download_count": 1242,
       "created_at": "2026-06-13T18:15:26Z",
       "updated_at": "2026-06-13T18:15:27Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-osx-x86_64.tar.gz"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 22353526,
       "digest": "sha256:cbafd92b9fb1ac87b5f06c6bba08d47d54503bcd48ec78bc6e9923b44ff3805c",
-      "download_count": 2158,
+      "download_count": 2162,
       "created_at": "2026-06-13T18:15:34Z",
       "updated_at": "2026-06-13T18:15:36Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-windows-x86_64-installer.exe"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 23027450,
       "digest": "sha256:741acd147cfba542980f5f5377eab9ad31eb446c5bda195608dd276ad242be51",
-      "download_count": 6574,
+      "download_count": 6594,
       "created_at": "2026-06-13T18:15:39Z",
       "updated_at": "2026-06-13T18:15:41Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-windows-x86_64.zip"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 98,
       "digest": "sha256:bd8475c25e382cc252cf6f723991bc7a1c2a840de492264e2971a9971f03ef1b",
-      "download_count": 4247,
+      "download_count": 4261,
       "created_at": "2026-06-13T18:15:41Z",
       "updated_at": "2026-06-13T18:15:42Z",
       "browser_download_url": "https://github.com/commercialhaskell/stack/releases/download/v3.11.1/stack-3.11.1-windows-x86_64.zip.sha256"
