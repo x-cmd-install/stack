@@ -7,7 +7,7 @@ about:
   latestVersion: "rc/v4.1.0.1"
   latestRelease: "v3.11.1"
   latestPrerelease: "rc/v4.1.0.1"
-  collectedAt: 2026-09-10T06:16:55Z
+  collectedAt: 2026-09-10T18:15:48Z
 timeline:
   created: 2015-04-29
   lastCommit: 2026-08-22
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 4078
   watcher: 94
-  fork: 849
+  fork: 850
   release: 81
   contributor: 421
   pullRequest: 2497
@@ -89,7 +89,7 @@ total:
   commit: 11870
 ---
 path: /home/runner/.x-repo/github.com/commercialhaskell/stack
-collectedAt: 2026-09-10T06:17:02Z
+collectedAt: 2026-09-10T18:15:55Z
 loc:
   Haskell:
     code: 50263
