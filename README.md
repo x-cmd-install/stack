@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 4 | 0 | 1 | 0 | 7 |
-| last60d | 2026-07-16 | 1 | 5 | 0 | 2 | 1 | 17 |
-| 90d | 2026-06-16 | 1 | 14 | 1 | 8 | 3 | 63 |
-| last180d | 2026-03-18 | 3 | 61 | 1 | 27 | 4 | 239 |
-| 360d | 2025-09-19 | 6 | 87 | 3 | 46 | 14 | 381 |
-| last720d | 2024-09-24 | 12 | 186 | 4 | 78 | 33 | 791 |
+| 30d | 2026-08-16 | 1 | 2 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-17 | 1 | 5 | 0 | 2 | 1 | 17 |
+| 90d | 2026-06-17 | 1 | 14 | 1 | 8 | 3 | 63 |
+| last180d | 2026-03-19 | 3 | 61 | 1 | 27 | 4 | 239 |
+| 360d | 2025-09-20 | 6 | 87 | 3 | 46 | 14 | 381 |
+| last720d | 2024-09-25 | 12 | 186 | 4 | 78 | 33 | 791 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for stack lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:37:10Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:42:18Z._
