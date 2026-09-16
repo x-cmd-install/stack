@@ -30,8 +30,8 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (1/10) — Found 3/21 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 2 | 0 | 0 | 0 | 7 |
-| last60d | 2026-07-17 | 1 | 5 | 0 | 2 | 1 | 17 |
-| 90d | 2026-06-17 | 1 | 14 | 1 | 8 | 3 | 63 |
-| last180d | 2026-03-19 | 3 | 61 | 1 | 27 | 4 | 239 |
-| 360d | 2025-09-20 | 6 | 87 | 3 | 46 | 14 | 381 |
-| last720d | 2024-09-25 | 12 | 186 | 4 | 78 | 33 | 791 |
+| 30d | 2026-08-17 | 1 | 1 | 0 | 0 | 0 | 7 |
+| last60d | 2026-07-18 | 1 | 5 | 0 | 2 | 1 | 17 |
+| 90d | 2026-06-18 | 1 | 14 | 1 | 8 | 3 | 63 |
+| last180d | 2026-03-20 | 3 | 61 | 1 | 27 | 4 | 239 |
+| 360d | 2025-09-21 | 6 | 87 | 3 | 46 | 14 | 381 |
+| last720d | 2024-09-26 | 12 | 186 | 4 | 78 | 33 | 788 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for stack lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:42:18Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:50:33Z._
