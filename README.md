@@ -14,13 +14,13 @@ x install stack
 
 ## Code insight
 
-Total: **67,712** lines of code across **1100** files in the top 5 languages.
+Total: **67,713** lines of code across **1100** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Haskell | 50,273 | 12,097 | 5,861 | 691 |
 | Svg | 11,802 | 2,324 | 3 | 11 |
-| Yaml | 3,417 | 211 | 832 | 369 |
+| Yaml | 3,418 | 212 | 832 | 369 |
 | Cabal | 1,192 | 7 | 65 | 11 |
 | Sh | 908 | 249 | 143 | 18 |
 
@@ -30,8 +30,8 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/21 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 3/19 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rc/v4.1.0.1` (2026-06-13)
-- **Last commit**: 2026-09-19
+- **Last commit**: 2026-09-20
 - **Assets in release**: 36
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 2239 · **Open PRs**: 8 · **Closed issues**: 3855 · **Open issues**: 603 · **Commits**: 11872
+- **Releases**: 81 · **Merged PRs**: 2241 · **Open PRs**: 6 · **Closed issues**: 3856 · **Open issues**: 602 · **Commits**: 11879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 1 | 1 | 2 | 1 | 2 | 2 |
-| last60d | 2026-07-22 | 1 | 5 | 2 | 3 | 3 | 18 |
-| 90d | 2026-06-22 | 1 | 15 | 3 | 8 | 5 | 51 |
-| last180d | 2026-03-24 | 3 | 61 | 3 | 28 | 6 | 241 |
-| 360d | 2025-09-25 | 6 | 86 | 5 | 46 | 16 | 377 |
-| last720d | 2024-09-30 | 12 | 186 | 6 | 79 | 35 | 786 |
+| 30d | 2026-08-22 | 1 | 3 | 0 | 2 | 1 | 9 |
+| last60d | 2026-07-23 | 1 | 7 | 0 | 4 | 2 | 25 |
+| 90d | 2026-06-23 | 1 | 17 | 1 | 9 | 3 | 58 |
+| last180d | 2026-03-25 | 3 | 63 | 1 | 29 | 5 | 248 |
+| 360d | 2025-09-26 | 6 | 88 | 3 | 47 | 15 | 384 |
+| last720d | 2024-10-01 | 12 | 188 | 4 | 80 | 34 | 791 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for stack lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:25:55Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:42:07Z._
