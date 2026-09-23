@@ -4,7 +4,7 @@
 
 The Haskell Tool Stack
 
-[![x-cmd/install — stack Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stack.svg?lang=zh)](https://x-cmd.com/install/stack)
+[![x-cmd/install — stack Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/stack.svg?lang=zh)](https://x-cmd.com/install/stack)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install stack
 
 ## 流行度
 
-- **Star**: 4,078 · **Fork**: 850 · **开放 issue**: 4,458 · **贡献者**: 421
+- **Star**: 4,078 · **Fork**: 850 · **开放 issue**: 4,459 · **贡献者**: 421
 
 ## 累计统计
 
-- **发布数**: 81 · **已合并 PR**: 2241 · **开放 PR**: 6 · **已关闭 issue**: 3856 · **开放 issue**: 602 · **提交数**: 11879
+- **发布数**: 81 · **已合并 PR**: 2241 · **开放 PR**: 7 · **已关闭 issue**: 3856 · **开放 issue**: 603 · **提交数**: 11879
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 0 | 2 | 1 | 9 |
-| last60d | 2026-07-24 | 1 | 7 | 0 | 4 | 2 | 25 |
-| 90d | 2026-06-24 | 1 | 17 | 1 | 9 | 3 | 58 |
-| last180d | 2026-03-26 | 3 | 63 | 1 | 29 | 5 | 248 |
-| 360d | 2025-09-27 | 6 | 88 | 3 | 47 | 15 | 384 |
-| last720d | 2024-10-02 | 12 | 188 | 4 | 79 | 34 | 791 |
+| 30d | 2026-08-24 | 0 | 3 | 1 | 2 | 2 | 9 |
+| last60d | 2026-07-25 | 1 | 7 | 1 | 4 | 3 | 25 |
+| 90d | 2026-06-25 | 1 | 17 | 2 | 9 | 4 | 58 |
+| last180d | 2026-03-27 | 3 | 63 | 2 | 29 | 6 | 248 |
+| 360d | 2025-09-28 | 6 | 88 | 4 | 47 | 15 | 384 |
+| last720d | 2024-10-03 | 12 | 188 | 5 | 79 | 35 | 791 |
 
 ## Release 资产
 
@@ -115,4 +115,4 @@ stack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:36:40Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:44:23Z._

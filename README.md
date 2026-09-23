@@ -4,7 +4,7 @@
 
 The Haskell Tool Stack
 
-[![x-cmd/install — stack Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stack.svg)](https://x-cmd.com/install/stack)
+[![x-cmd/install — stack Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/stack.svg)](https://x-cmd.com/install/stack)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,078 · **Forks**: 850 · **Open issues**: 4,458 · **Contributors**: 421
+- **Stars**: 4,078 · **Forks**: 850 · **Open issues**: 4,459 · **Contributors**: 421
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 2241 · **Open PRs**: 6 · **Closed issues**: 3856 · **Open issues**: 602 · **Commits**: 11879
+- **Releases**: 81 · **Merged PRs**: 2241 · **Open PRs**: 7 · **Closed issues**: 3856 · **Open issues**: 603 · **Commits**: 11879
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 3 | 0 | 2 | 1 | 9 |
-| last60d | 2026-07-24 | 1 | 7 | 0 | 4 | 2 | 25 |
-| 90d | 2026-06-24 | 1 | 17 | 1 | 9 | 3 | 58 |
-| last180d | 2026-03-26 | 3 | 63 | 1 | 29 | 5 | 248 |
-| 360d | 2025-09-27 | 6 | 88 | 3 | 47 | 15 | 384 |
-| last720d | 2024-10-02 | 12 | 188 | 4 | 79 | 34 | 791 |
+| 30d | 2026-08-24 | 0 | 3 | 1 | 2 | 2 | 9 |
+| last60d | 2026-07-25 | 1 | 7 | 1 | 4 | 3 | 25 |
+| 90d | 2026-06-25 | 1 | 17 | 2 | 9 | 4 | 58 |
+| last180d | 2026-03-27 | 3 | 63 | 2 | 29 | 6 | 248 |
+| 360d | 2025-09-28 | 6 | 88 | 4 | 47 | 15 | 384 |
+| last720d | 2024-10-03 | 12 | 188 | 5 | 79 | 35 | 791 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for stack lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:36:39Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:44:23Z._
