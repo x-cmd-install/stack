@@ -26,11 +26,11 @@ x install stack
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.9 / 10**
+总评分: **5 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/19 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 4/19 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,7 +48,7 @@ x install stack
 
 ## 流行度
 
-- **Star**: 4,078 · **Fork**: 854 · **开放 issue**: 4,459 · **贡献者**: 421
+- **Star**: 4,078 · **Fork**: 855 · **开放 issue**: 4,459 · **贡献者**: 421
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install stack
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 5 | 0 | 4 | 0 | 13 |
-| last60d | 2026-08-12 | 2 | 9 | 0 | 6 | 0 | 21 |
-| 90d | 2026-07-13 | 2 | 10 | 0 | 7 | 2 | 30 |
-| last180d | 2026-04-14 | 4 | 61 | 1 | 26 | 4 | 227 |
-| 360d | 2025-10-16 | 7 | 89 | 1 | 48 | 12 | 384 |
-| last720d | 2024-10-21 | 13 | 189 | 4 | 79 | 33 | 791 |
+| 30d | 2026-09-12 | 1 | 5 | 0 | 4 | 0 | 13 |
+| last60d | 2026-08-13 | 2 | 9 | 0 | 6 | 0 | 21 |
+| 90d | 2026-07-14 | 2 | 10 | 0 | 7 | 2 | 30 |
+| last180d | 2026-04-15 | 4 | 61 | 1 | 26 | 4 | 227 |
+| 360d | 2025-10-17 | 7 | 89 | 1 | 48 | 12 | 384 |
+| last720d | 2024-10-22 | 13 | 188 | 4 | 79 | 33 | 790 |
 
 ## Release 资产
 
@@ -115,4 +115,4 @@ stack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261011.yml` · 2026-10-11T06:57:06Z._
+_数据快照: `data/card/261012.yml` · 2026-10-12T07:20:01Z._
