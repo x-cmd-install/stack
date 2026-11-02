@@ -14,13 +14,13 @@ x install stack
 
 ## Code insight
 
-Total: **68,086** lines of code across **1115** files in the top 5 languages.
+Total: **68,172** lines of code across **1117** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Haskell | 50,571 | 12,131 | 5,891 | 700 |
 | Svg | 11,802 | 2,324 | 3 | 11 |
-| Yaml | 3,443 | 213 | 840 | 372 |
+| Yaml | 3,529 | 220 | 854 | 374 |
 | Cabal | 1,242 | 13 | 77 | 14 |
 | Sh | 908 | 249 | 143 | 18 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rc/v4.1.0.3` (2026-06-13)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-01
 - **Assets in release**: 36
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 2247 · **Open PRs**: 7 · **Closed issues**: 3860 · **Open issues**: 600 · **Commits**: 11902
+- **Releases**: 82 · **Merged PRs**: 2248 · **Open PRs**: 6 · **Closed issues**: 3860 · **Open issues**: 600 · **Commits**: 11904
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 4 | 1 | 1 | 0 | 18 |
-| last60d | 2026-09-02 | 1 | 9 | 1 | 5 | 0 | 32 |
-| 90d | 2026-08-03 | 2 | 13 | 1 | 7 | 0 | 48 |
-| last180d | 2026-05-05 | 4 | 41 | 2 | 21 | 4 | 166 |
-| 360d | 2025-11-06 | 7 | 92 | 2 | 48 | 12 | 396 |
-| last720d | 2024-11-11 | 13 | 191 | 5 | 80 | 33 | 806 |
+| 30d | 2026-10-03 | 1 | 5 | 0 | 1 | 0 | 20 |
+| last60d | 2026-09-03 | 1 | 10 | 0 | 5 | 0 | 34 |
+| 90d | 2026-08-04 | 2 | 14 | 0 | 7 | 0 | 50 |
+| last180d | 2026-05-06 | 4 | 42 | 1 | 21 | 4 | 168 |
+| 360d | 2025-11-07 | 7 | 93 | 1 | 48 | 11 | 398 |
+| last720d | 2024-11-12 | 13 | 192 | 4 | 80 | 33 | 805 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for stack lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:22:14Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:36:03Z._
