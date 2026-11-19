@@ -30,7 +30,7 @@ x install stack
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/17 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ x install stack
 
 ## 流行度
 
-- **Star**: 4,084 · **Fork**: 856 · **开放 issue**: 4,461 · **贡献者**: 423
+- **Star**: 4,084 · **Fork**: 857 · **开放 issue**: 4,461 · **贡献者**: 423
 
 ## 累计统计
 
-- **发布数**: 82 · **已合并 PR**: 2250 · **开放 PR**: 6 · **已关闭 issue**: 3861 · **开放 issue**: 600 · **提交数**: 11911
+- **发布数**: 82 · **已合并 PR**: 2251 · **开放 PR**: 7 · **已关闭 issue**: 3861 · **开放 issue**: 600 · **提交数**: 11911
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 6 | 0 | 1 | 1 | 15 |
-| last60d | 2026-09-17 | 1 | 12 | 0 | 4 | 1 | 31 |
-| 90d | 2026-08-18 | 2 | 13 | 0 | 5 | 1 | 41 |
-| last180d | 2026-05-20 | 4 | 38 | 1 | 21 | 4 | 173 |
-| 360d | 2025-11-21 | 7 | 94 | 1 | 48 | 11 | 397 |
-| last720d | 2024-11-26 | 13 | 194 | 4 | 81 | 33 | 810 |
+| 30d | 2026-10-20 | 0 | 6 | 1 | 1 | 1 | 15 |
+| last60d | 2026-09-20 | 1 | 10 | 1 | 2 | 1 | 31 |
+| 90d | 2026-08-21 | 2 | 13 | 1 | 5 | 1 | 41 |
+| last180d | 2026-05-23 | 4 | 39 | 2 | 20 | 4 | 173 |
+| 360d | 2025-11-24 | 7 | 95 | 2 | 48 | 11 | 397 |
+| last720d | 2024-11-29 | 13 | 195 | 5 | 81 | 32 | 807 |
 
 ## Release 资产
 
@@ -115,4 +115,4 @@ stack 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:51:47Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T10:27:58Z._

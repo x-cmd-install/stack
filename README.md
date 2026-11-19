@@ -30,7 +30,7 @@ Overall score: **4.9 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 3/18 approved changesets -- score normalized to 1
+- **Code-Review** (1/10) — Found 3/17 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,084 · **Forks**: 856 · **Open issues**: 4,461 · **Contributors**: 423
+- **Stars**: 4,084 · **Forks**: 857 · **Open issues**: 4,461 · **Contributors**: 423
 
 ## Totals (cumulative)
 
-- **Releases**: 82 · **Merged PRs**: 2250 · **Open PRs**: 6 · **Closed issues**: 3861 · **Open issues**: 600 · **Commits**: 11911
+- **Releases**: 82 · **Merged PRs**: 2251 · **Open PRs**: 7 · **Closed issues**: 3861 · **Open issues**: 600 · **Commits**: 11911
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 6 | 0 | 1 | 1 | 15 |
-| last60d | 2026-09-17 | 1 | 12 | 0 | 4 | 1 | 31 |
-| 90d | 2026-08-18 | 2 | 13 | 0 | 5 | 1 | 41 |
-| last180d | 2026-05-20 | 4 | 38 | 1 | 21 | 4 | 173 |
-| 360d | 2025-11-21 | 7 | 94 | 1 | 48 | 11 | 397 |
-| last720d | 2024-11-26 | 13 | 194 | 4 | 81 | 33 | 810 |
+| 30d | 2026-10-20 | 0 | 6 | 1 | 1 | 1 | 15 |
+| last60d | 2026-09-20 | 1 | 10 | 1 | 2 | 1 | 31 |
+| 90d | 2026-08-21 | 2 | 13 | 1 | 5 | 1 | 41 |
+| last180d | 2026-05-23 | 4 | 39 | 2 | 20 | 4 | 173 |
+| 360d | 2025-11-24 | 7 | 95 | 2 | 48 | 11 | 397 |
+| last720d | 2024-11-29 | 13 | 195 | 5 | 81 | 32 | 807 |
 
 ## Release assets
 
@@ -115,4 +115,4 @@ Install metadata for stack lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:51:46Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:27:56Z._
